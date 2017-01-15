@@ -1,0 +1,7 @@
+#Sun Jan 15 11:52:21 EST 2017
+base.0=/home/sam/PartyGames/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_24aa881fe676d05331103a374269e57c04c0493c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/sam/PartyGames/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_50fc032a4609166f91a8eb8c3642aa9181f36b00/classes.dex
+base.1=/home/sam/PartyGames/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_50fc032a4609166f91a8eb8c3642aa9181f36b00
+file.0=/home/sam/PartyGames/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_24aa881fe676d05331103a374269e57c04c0493c/classes.dex

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="25"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="12233037225120"
+    token="3525353887313302751"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="89" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="5" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/home/sam/PartyGames/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="10216494264651"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/sam/PartyGames/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="10421280260997"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/sam/PartyGames/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/sam/PartyGames/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="11095191593567"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/sam/PartyGames/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="12233037225120"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/sam/PartyGames/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/sam/PartyGames/app/build/intermediates/res/merged/debug/drawable-tvdpi/ic_undo_black_24dp.png",
+        "source": "/home/sam/PartyGames/app/src/main/res/drawable-tvdpi/ic_undo_black_24dp.png"
+    },
+    {
+        "merged": "/home/sam/PartyGames/app/build/intermediates/res/merged/debug/drawable-tvdpi/ic_home_black_36dp.png",
+        "source": "/home/sam/PartyGames/app/src/main/res/drawable-tvdpi/ic_home_black_36dp.png"
+    },
+    {
+        "merged": "/home/sam/PartyGames/app/build/intermediates/res/merged/debug/drawable-tvdpi/ic_cached_black_24dp.png",
+        "source": "/home/sam/PartyGames/app/src/main/res/drawable-tvdpi/ic_cached_black_24dp.png"
+    },
+    {
+        "merged": "/home/sam/PartyGames/app/build/intermediates/res/merged/debug/drawable-tvdpi/ic_info_black_36dp.png",
+        "source": "/home/sam/PartyGames/app/src/main/res/drawable-tvdpi/ic_info_black_36dp.png"
+    },
+    {
+        "merged": "/home/sam/PartyGames/app/build/intermediates/res/merged/debug/drawable-tvdpi/ic_casino_black_36dp.png",
+        "source": "/home/sam/PartyGames/app/src/main/res/drawable-tvdpi/ic_casino_black_36dp.png"
+    },
+    {
+        "merged": "/home/sam/PartyGames/app/build/intermediates/res/merged/debug/drawable-tvdpi/ic_control_point_black_24dp.png",
+        "source": "/home/sam/PartyGames/app/src/main/res/drawable-tvdpi/ic_control_point_black_24dp.png"
+    }
+]

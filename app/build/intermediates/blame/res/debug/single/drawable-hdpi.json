@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/sam/PartyGames/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_settings_black_24dp.png",
+        "source": "/home/sam/PartyGames/app/src/main/res/drawable-hdpi/ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "/home/sam/PartyGames/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_more_horiz_black_24dp.png",
+        "source": "/home/sam/PartyGames/app/src/main/res/drawable-hdpi/ic_more_horiz_black_24dp.png"
+    },
+    {
+        "merged": "/home/sam/PartyGames/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_file_download_black_24dp.png",
+        "source": "/home/sam/PartyGames/app/src/main/res/drawable-hdpi/ic_file_download_black_24dp.png"
+    },
+    {
+        "merged": "/home/sam/PartyGames/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_menu_black_24dp.png",
+        "source": "/home/sam/PartyGames/app/src/main/res/drawable-hdpi/ic_menu_black_24dp.png"
+    }
+]

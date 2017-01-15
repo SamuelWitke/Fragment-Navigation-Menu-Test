@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rules"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:text="Waterfall- All players start drinking, a player can only stop drinking when a previous player have finished"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView5" />
+    <android.support.v4.widget.Space
+        android:layout_width="1sp"
+        android:layout_height="10sp" />
+    <TextView
+        android:text="You- Choose someone to drink"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView6" />
+    <android.support.v4.widget.Space
+        android:layout_width="1sp"
+        android:layout_height="10sp" />
+    <TextView
+        android:text="Me- You Drink"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView7" />
+    <android.support.v4.widget.Space
+        android:layout_width="1sp"
+        android:layout_height="10sp" />
+    <TextView
+        android:text="Floor- Last person to touch the floor drinks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView8" />
+    <android.support.v4.widget.Space
+        android:layout_width="1sp"
+        android:layout_height="10sp" />
+    <TextView
+        android:text="Guys- All guys drink"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView9" />
+    <android.support.v4.widget.Space
+        android:layout_width="1sp"
+        android:layout_height="10sp" />
+    <TextView
+        android:text="Chicks- All girls drink"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView10" />
+    <android.support.v4.widget.Space
+        android:layout_width="1sp"
+        android:layout_height="10sp" />
+    <TextView
+        android:text="Heaven- Last one to reach up drinks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView11" />
+    <android.support.v4.widget.Space
+        android:layout_width="1sp"
+        android:layout_height="10sp" />
+    <TextView
+        android:text="Date- Choose a drinking buddy to drink when you lose"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView12" />
+    <android.support.v4.widget.Space
+        android:layout_width="1sp"
+        android:layout_height="10sp" />
+    <TextView
+        android:text="Rhyme- Player who can't rhyme drinks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView13" />
+    <android.support.v4.widget.Space
+        android:layout_width="1sp"
+        android:layout_height="10sp" />
+    <TextView
+        android:text="Categories- Player who cant match item in category drinks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView14" />
+    <android.support.v4.widget.Space
+        android:layout_width="1sp"
+        android:layout_height="10sp" />
+    <TextView
+        android:text="Never Have I Ever- Three lives player who has done all three things drinks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView15" />
+    <android.support.v4.widget.Space
+        android:layout_width="1sp"
+        android:layout_height="10sp" />
+    <TextView
+        android:text="Truth Or Dare- Player performs dare or 'tells truth' if not drinks for groups decided amount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView16" />
+    <android.support.v4.widget.Space
+        android:layout_width="1sp"
+        android:layout_height="10sp" />
+    <TextView
+        android:text="Rule- A rule that players must obey until next rule, drink if rule broken"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView17" />
+</LinearLayout>
