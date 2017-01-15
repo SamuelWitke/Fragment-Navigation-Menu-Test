@@ -5,7 +5,8 @@
  3.  Floating Action Button
  4.  Tool Bars
  5.  View Pager
- 6.  Data Holding Techniques 
+ 6. Data Holding Techniques 
+ 
 ## Allowing User To 
 1. Add To Existing Files 
 2. Add Custom Player Names That Cycle in Full Game. 
